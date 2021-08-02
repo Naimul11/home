@@ -104,10 +104,10 @@ li:hover{
         align-content: center;
     }
     .logo{
+        width: 30%;
         padding: 2em;
-        position: absolute;
-        top: 1em;
-    }
+        position: relative;
+        }
     .images{
         width: 55vw;
     }
