@@ -113,8 +113,8 @@ li:hover{
     }
     .image{
         display: block; /*helped to center*/
-        width: 90%;
-        margin: auto;
+        width: 80%;
+        margin: 0 auto;
     
     }
    
